@@ -1,0 +1,8 @@
+1 - Qual a diferença prática entre "programar" e "fazer engenharia de software"?Em que momento um projeto pessoal passa a exigir um processo mais formal?
+Resposta: Diferença prática de Programar é o ato de escrever código fonte, Engenharia de Software é uma abordagem disciplinada que abrange não só a codificação, mas todo o processo de gestão, especificação de requisitos, arquitetura, testes, documentação e manutenção para garantir prazos, custos e qualidade. Um projeto pessoal passa a exigir um processo formal quando deixa de ser apenas um script simples ou protótipo e passa a ter dependências de longo prazo.
+
+2 - Dos 4 atributos de um bom software, qual vocês acham mais difícil de garantir na prática? Por quê?
+Resposta: Os 4 atributos, Manutenibilidade, Confiabilidade e segurança, Eficiência e Aceitabilidade (usabilidade/compatibilidade). Depois de analsar, a Manutenibilidade costuma ser o mais difícil de sustentar no longo prazo, pois passa por mudanças rápidas e contínuas no sistema sem controle ou documentação adequada, qual piora a estrutura interna do código, tornando o software rígido e complexo. 
+
+3 - O ciclo de vida é sempre sequencial? Por que a "evolução" pode levar de volta à "especificação"?
+Resposta: Não é sequencial. Processos modernos de software são iterativos e incrementais, o software em uso precisa mudar constantemente para continuar útil, quando um sistema está na fase de evolução e surgem novas demandas de mercado, problemas de uso ou alterações de negócio, essas mudanças geram novos requisitos. Assim, para implementá-las com segurança, o ciclo recomeça na fase de especificação.
